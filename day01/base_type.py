@@ -52,4 +52,4 @@ if __name__ == '__main__':
     type_join()
     lkjhio=add_abc(1,4)
     print(lkjhio)
-    print(a)
+    liaojiayan
