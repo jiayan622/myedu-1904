@@ -5,3 +5,4 @@ if __name__ == '__main__':
     print(a[2:])
     print(a[0]+a[3])
     print(a[::-1])
+    list
